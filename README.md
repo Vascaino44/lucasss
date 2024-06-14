@@ -1,4 +1,4 @@
-0,### olaaa, meu nome é Lucas Aparecido
+### olaaa, meu nome é Lucas Aparecido
 📙 Estou estudando no alura para me desenvolver.
 👨‍💻 Estou me desevolvendo em JavaScript
 
